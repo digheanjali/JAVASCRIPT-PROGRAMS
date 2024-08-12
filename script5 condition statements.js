@@ -72,45 +72,45 @@ let age = 17
 let q1 = age >= 18 ? "can drive" : "cannot drive"
 console.log(q1)
 
+// swith statment -Evaluates an expression, then executes the case statement that matches the expression’s value.
+// switch case without break ---> print all case  statement after case match  or also defauilt case find element
 
-// switch case without break ---> print all case after  or also defauilt case find element
+// let city = "indore"
+// switch (city) {
+//     case "pune":
+//         console.log("MH")
 
-let city = "indore"
-switch (city) {
-    case "pune":
-        console.log("MH")
+//     case "indore":
+//         console.log("MP")
 
-    case "indore":
-        console.log("MP")
+//     case "jaipur":
+//         console.log("RJ")
 
-    case "jaipur":
-        console.log("RJ")
-
-    default:
-        console.log("incorrect cityName")
-}
-
-
-
-// switch case with break 
+//     default:
+//         console.log("incorrect cityName")
+// }
 
 
-let city2 = "Indore"
-switch (city2) {
-    case "pune":
-        console.log("MH")
-        break
-    case "indore":
-        console.log("MP")
-        break
 
-    case "jaipur":
-        console.log("RJ")
-        break
-    default:
-        console.log("incorrect cityName")
-}
-// switch case with multiple case
+// switch case with break -- only print match case statment
+
+
+// let city2 = "Indore"
+// switch (city2) {
+//     case "pune":
+//         console.log("MH")
+//         break
+//     case "Indore":
+//         console.log("MP")
+//         break
+
+//     case "jaipur":
+//         console.log("RJ")
+//         break
+//     default:
+//         console.log("incorrect cityName")
+// }
+// // switch case with multiple case
 
 let city3 = "bhopal"
 switch (city3) {

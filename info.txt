@@ -1,0 +1,21 @@
+//run code on terminal using cmd
+node .\sript.js
+//script means file name
+
+
+download and installation steps for node js
+//goggle- search -nodejs - click on download
+//windows istaller (64 bit)
+//clickon next,next,next
+//accept agrement
+
+
+download and installation steps for visual studio code
+//goggle - v.s.c. download
+//for windows
+//file download - open it & intall it
+// accepet license and clicl on next 
+//next
+//select addition task - register code an ediot
+                       - add to path 
+// next , next, finish
